@@ -1,0 +1,9 @@
+{
+  "name": "5tar Camera Pro",
+  "description": "Professional Camera. Creative Studio. Developed by 5tar Suraj — Real CameraX/Camera2 & Web MediaDevices studio with Pro manual controls, Slow Motion, Time-Lapse, Photo & Video NLE Editor, 100+ Studio Templates, and Encrypted Private Vault.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
